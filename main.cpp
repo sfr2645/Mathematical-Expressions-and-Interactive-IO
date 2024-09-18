@@ -15,4 +15,5 @@ int main()
   butter=(cookies/48);
   flour=(cookies/48)*2.75;
   cout << "To make " << cookies << " cookies, you will need:\n" << sugar << "cup(s) of sugar \n" << butter << "cup(s) of butter \n" << flour << "cup(s) of flour";
+return(0);
 }
